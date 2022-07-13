@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1067951734130",
+    "project_id": "prabodham-48092",
+    "storage_bucket": "prabodham-48092.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067951734130:android:de496b42c0b7fff70d31eb",
+        "android_client_info": {
+          "package_name": "com.app.prabodham"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067951734130-g178m1bvn69ln05ugr3jcfoev7sgm9rt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.prabodham",
+            "certificate_hash": "4a14c78adb9731fc0faba33a751844009b1c0b22"
+          }
+        },
+        {
+          "client_id": "1067951734130-b5u1kff895otrqh86f2tmj5t46ggbki9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR1TQXffbtfCjy-s-K6olFEcUFYvCgUU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067951734130-b5u1kff895otrqh86f2tmj5t46ggbki9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
